@@ -39,7 +39,7 @@ This dataset is valuable for exploring and analyzing trends in the New York City
 
 [Notebook](https://github.com/amandeepkaur2024/New-York-Airbnb-listings)
 
-**Conclusion**
+**Conclusion**<br>
 The analysis yields several noteworthy findings regarding accommodations in New York City:
 
 - Manhattan emerges as the most expensive neighborhood, with the highest average price among the observed locations, indicating it is the costliest area for accommodations.
