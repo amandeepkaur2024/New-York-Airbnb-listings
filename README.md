@@ -6,7 +6,7 @@ New York Airbnb listings analysis involves examining rental data to guide inform
 **Objective:**<br>
 New York Airbnb listings analysis involves monitoring and analyzing data related to short-term rental properties in New York City. This includes evaluating property details (such as name, host information, location), pricing trends, occupancy rates, and guest feedback. By analyzing these factors, we aim to uncover insights into market dynamics, identify key factors influencing rental performance, and understand guest preferences and behaviors.
 
-**Description of Dataset**
+**Description of Dataset**<br>
 This dataset comprises a comprehensive list of New York City Airbnb listings, sourced from Airbnb's website. The dataset includes various fields providing detailed information about each listing:
 
 id: Unique identifier for each Airbnb listing.<br>
