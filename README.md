@@ -1,7 +1,7 @@
 # New-York-Airbnb-listings
 New York Airbnb listings analysis involves examining rental data to guide informed decisions within the hospitality market.
 
-![](real-estate-searching-illustration_23-2148649592.jpg)
+![](https://img.freepik.com/free-vector/real-estate-searching-illustration_23-2148649592.jpg?t=st=1715618008~exp=1715621608~hmac=5b2186f6eb4e79bc8e5749eb248b4fc2fef94af307cfd63696fc058b4de01df9&w=740)
 
 **Objective:**<br>
 New York Airbnb listings analysis involves monitoring and analyzing data related to short-term rental properties in New York City. This includes evaluating property details (such as name, host information, location), pricing trends, occupancy rates, and guest feedback. By analyzing these factors, we aim to uncover insights into market dynamics, identify key factors influencing rental performance, and understand guest preferences and behaviors.
